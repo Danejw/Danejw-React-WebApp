@@ -1,1 +1,1 @@
-# This is the beginning of a React App That Will Become A FrontEnd To Interact With My AI Models
+# This Is The Beginning Of A React App That Will Become A FrontEnd To Interact With My AI Models
